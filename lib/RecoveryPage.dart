@@ -78,8 +78,7 @@ class _RecoveryPageState extends State<RecoveryPage> {
                               context: context,
                               barrierDismissible: false,
                               builder: (context) => ErrorDialog(
-                                action: (){Navigator.pop(context);
-                                Navigator.pop(context);},
+                                action: (){Navigator.pop(context);},
                                 title: 'SUCCESS',
                                 text:
                                 'The reset email sent successfully, please check your email',

@@ -107,7 +107,7 @@ class _SignInPageState extends State<SignInPage> {
       elevation: 4,
       borderRadius: BorderRadius.all(Radius.circular(45)),
       child: Container(
-        width: 250,
+        width: 230,
         height: 50,
         decoration:
             BoxDecoration(borderRadius: BorderRadius.all(Radius.circular(45))),
@@ -120,7 +120,7 @@ class _SignInPageState extends State<SignInPage> {
                 });
               },
               child: Container(
-                width: 250,
+                width: 230,
                 height: 50,
                 decoration: ShapeDecoration(
                   color: Colors.white,
@@ -133,7 +133,7 @@ class _SignInPageState extends State<SignInPage> {
                   children: List.generate(
                     2,
                     (index) => Padding(
-                      padding: EdgeInsets.symmetric(horizontal: 35),
+                      padding: EdgeInsets.symmetric(horizontal: 25),
                       child: Text(
                         _values[index],
                         style: TextStyle(
