@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "325917889610",
+    "project_id": "fridge-24f43",
+    "storage_bucket": "fridge-24f43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325917889610:android:3a14525a454ef9fc2882b3",
+        "android_client_info": {
+          "package_name": "com.example.fridge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325917889610-1cq2iqhfu5nftht7ap6aia6vr5scennm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB49_OUn9IZyJBviRKL9QjUCJWTeC7kgaY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325917889610-1cq2iqhfu5nftht7ap6aia6vr5scennm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
